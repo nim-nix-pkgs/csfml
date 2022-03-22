@@ -9,7 +9,7 @@
   
   inputs.src-csfml-v2_1_2.flake = false;
   inputs.src-csfml-v2_1_2.owner = "oprypin";
-  inputs.src-csfml-v2_1_2.ref   = "refs/tags/v2.1.2";
+  inputs.src-csfml-v2_1_2.ref   = "v2_1_2";
   inputs.src-csfml-v2_1_2.repo  = "nim-csfml";
   inputs.src-csfml-v2_1_2.type  = "github";
   
