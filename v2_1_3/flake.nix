@@ -11,6 +11,7 @@
   inputs.src-csfml-v2_1_3.ref   = "refs/tags/v2.1.3";
   inputs.src-csfml-v2_1_3.owner = "oprypin";
   inputs.src-csfml-v2_1_3.repo  = "nim-csfml";
+  inputs.src-csfml-v2_1_3.dir   = "";
   inputs.src-csfml-v2_1_3.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
